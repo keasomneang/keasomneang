@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Kea Somnang]
 
-### 🎓 Software Engineering Student at Norton University
+### 🎓 Software Developer Student at Norton University
 I am a passionate software student combining a strong technical foundation with a creative eye for UI/UX design. I bridge the gap between frontend experiences, mobile apps, and relational databases.
 
 ---
